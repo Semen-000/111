@@ -28,9 +28,9 @@ pip install Pillow
 
 - Windows: обычно установлен по умолчанию
 
-- Linux: ```bash sudo apt-get install python3-tk```
+- Linux: ```sudo apt-get install python3-tk```
 
-- macOS: ```bash brew install python-tk```
+- macOS: ```brew install python-tk```
 
 
 ## Как запустить
