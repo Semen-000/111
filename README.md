@@ -44,5 +44,10 @@ python tk.py
 |------|--------|
 | Бузанов Семён Александрович |23ИСд|
 
-![Альтернативный текст]([путь/к/изображению.jpg](https://github.com/Semen-000/111/blob/main/67.jpg))
+
+
+
+![Alt text](https://github.com/Semen-000/111/blob/main/67.png)
+
+
 
